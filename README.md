@@ -1,6 +1,6 @@
-# Healthify - Kratin Assesment Project
+# HealthCare - Kratin Assesment Project
 
-Healthify is a web application for sunita,a 65+ years old woman to help her live healthy and happy life.
+HealthCare is a web application for sunita,a 65+ years old woman to help her live healthy and happy life.
 
 ### Features
 
@@ -12,7 +12,7 @@ Healthify is a web application for sunita,a 65+ years old woman to help her live
 How can you help Sunita Sharma (65+ years old) to live a healthier and better life?
 
 ### Deployment link 
-- https://kratin-assignment.vercel.app/
+- https://euphonious-taiyaki-fb46a5.netlify.app
 
 ### Company
 - kratin software solutions pvt ltd
